@@ -9,6 +9,8 @@ import com.dump.event.service.EventService;
 public class EventController {
 	@Autowired
 	private EventService eventService;
+	public String id="userid";
+		public String password="password";
 
  
 
